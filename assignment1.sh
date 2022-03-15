@@ -2,5 +2,4 @@
 echo "*************"
 echo "****name*****"
 echo "***welcome***" 
-assignment file is chaged in assignment branch
-edited
+#assignment1 files changed in assignment1 branch
