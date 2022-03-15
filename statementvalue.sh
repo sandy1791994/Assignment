@@ -7,4 +7,4 @@ echo "the company name is $company"
 echo "the work location is $location"
 echo "$0"
 echo "$#"
-#statement value edited in statement value branch1
+#statement value edited in statement value branch
