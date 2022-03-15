@@ -7,4 +7,4 @@ do
 	sum=`expr $sum + $i `
 	done
 	echo "the sum of array is $sum"
-
+#sum is edited in sum branch
