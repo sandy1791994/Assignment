@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "*************"
 echo "****name*****"
-echo "***welcome***" 
+echo "***biscuit***"
 #assignment1 files changed in assignment1 branch
